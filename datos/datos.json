@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Mouse inalámbrico",
+    "categoria": "Periféricos",
+    "precio": 499.00,
+    "descripcion": "Mouse inalámbrico con sensor óptico y diseño ergonómico.",
+    "stock": 25,
+    "imagen": "mouse.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Teclado mecánico",
+    "categoria": "Periféricos",
+    "precio": 899.00,
+    "descripcion": "Teclado mecánico con retroiluminación RGB y switches de alta calidad.",
+    "stock": 12,
+    "imagen": "teclado.jpg"
+  }
+]
