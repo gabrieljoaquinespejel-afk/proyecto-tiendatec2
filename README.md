@@ -1,4 +1,4 @@
-# proyecto-tiendatec2
+# proyecto-DOMINIO
 
 Catálogo de {{qué catalogas}} con {{qué transacción}}. Proyecto de la asignatura Aplicaciones Web (E-APW-2), grupo 401.
 
