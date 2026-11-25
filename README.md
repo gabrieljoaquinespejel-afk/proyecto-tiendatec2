@@ -4,16 +4,16 @@ Catálogo de {{qué catalogas}} con {{qué transacción}}. Proyecto de la asigna
 
 ## Vista previa
 
-https://TU-USUARIO.github.io/proyecto-DOMINIO/public/
+https://github.com/gabrieljoaquinespejel-afk/proyecto-tiendatec2.git
 
 ## Dominio y entidades
 
 | Entidad del curso | Equivalente en mi proyecto |
 |---|---|
-| Categoria | {{...}} |
-| Producto | {{...}} |
-| Cliente / Usuario | {{...}} |
-| Pedido + DetallePedido | {{...}} |
+| Categoria | Categoria |
+| Producto | Producto |
+| Cliente / Usuario | Cliente / Usuario  |
+| Pedido + DetallePedido | Pedido + Infopedido |
 
 ## Estructura
 
